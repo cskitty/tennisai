@@ -1,0 +1,240 @@
+{
+  "title" : "",
+  "description" : "",
+  "author" : "",
+  "targetLoudness" : -18.0,
+  "shouldApplyLoudnessNormalization" : true,
+  "videoFormatFrameRate" : 30,
+  "audioFormatSampleRate" : 44100,
+  "width" : 322.0,
+  "height" : 450.0,
+  "version" : "5.0",
+  "editRate" : 30,
+  "authoringClientName" :  {
+    "name" : "Camtasia",
+    "platform" : "Mac",
+    "version" : "2021.0.8"
+  },
+  "sourceBin" : [
+    {
+      "id" : 1,
+      "src" : "./media/1642278976.101225/sd1600644292_2.mp4",
+      "rect" : [0, 0, 540, 960],
+      "lastMod" : "20220115T193627",
+      "loudnessNormalization" : true,
+      "sourceTracks" : [
+        {
+          "range" : [0, 230400],
+          "type" : 0,
+          "editRate" : 15360,
+          "trackRect" : [0, 0, 540, 960],
+          "sampleRate" : 30,
+          "bitDepth" : 0,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : ""
+        },
+        {
+          "range" : [0, 663552],
+          "type" : 2,
+          "editRate" : 44100,
+          "trackRect" : [0, 0, 0, 0],
+          "sampleRate" : 44100,
+          "bitDepth" : 0,
+          "numChannels" : 2,
+          "integratedLUFS" : -44.9376917553765,
+          "peakLevel" : 0.0853374898433685,
+          "metaData" : ""
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20220115T194202.626349"
+      }
+    }
+  ],
+  "timeline" : {
+    "id" : 2,
+    "sceneTrack" : {
+      "scenes" : [
+        {
+          "csml" : {
+            "tracks" : [
+              {
+                "trackIndex" : 0,
+                "medias" : [
+                  {
+                    "id" : 3,
+                    "_type" : "UnifiedMedia",
+                    "video" : 
+                        {
+                          "id" : 4,
+                          "_type" : "VMFile",
+                          "src" : 1,
+                          "trackNumber" : 0,
+                          "attributes" : {
+                            "ident" : "sd1600644292_2"
+                          },
+                          "parameters" : {
+                            "translation0" : {
+                              "type" : "double",
+                              "defaultValue" : -27.453901076159,
+                              "interp" : "eioe"
+                            },
+                            "translation1" : {
+                              "type" : "double",
+                              "defaultValue" : 14.8545891970198,
+                              "interp" : "eioe"
+                            },
+                            "sourceCrop0" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            },
+                            "sourceCrop1" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            },
+                            "sourceCrop2" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            },
+                            "sourceCrop3" : {
+                              "type" : "double",
+                              "defaultValue" : 0.0,
+                              "interp" : "eioe"
+                            },
+                            "geometryCrop0" : {
+                              "type" : "double",
+                              "defaultValue" : 136.002457574522,
+                              "interp" : "eioe"
+                            },
+                            "geometryCrop1" : {
+                              "type" : "double",
+                              "defaultValue" : 269.354576262462,
+                              "interp" : "eioe"
+                            },
+                            "geometryCrop2" : {
+                              "type" : "double",
+                              "defaultValue" : 81.16957264074,
+                              "interp" : "eioe"
+                            },
+                            "geometryCrop3" : {
+                              "type" : "double",
+                              "defaultValue" : 239.35678807951,
+                              "interp" : "eioe"
+                            }
+                          },
+                          "effects" : [
+
+                          ],
+                          "start" : 0,
+                          "duration" : 450,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 450,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        },
+                    "audio" : 
+                        {
+                          "id" : 5,
+                          "_type" : "AMFile",
+                          "src" : 1,
+                          "trackNumber" : 1,
+                          "attributes" : {
+                            "ident" : "",
+                            "gain" : 1.0,
+                            "mixToMono" : false,
+                            "loudnessNormalization" : true
+                          },
+                            "channelNumber" : "0,1",
+                          "effects" : [
+
+                          ],
+                          "start" : 0,
+                          "duration" : 450,
+                          "mediaStart" : 0,
+                          "mediaDuration" : 450,
+                          "scalar" : 1,
+                          "animationTracks" : {
+
+                          }
+                        }
+,
+                    "start" : 0,
+                    "duration" : 450,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 450,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-scale" : "1",
+                      "effectApplied" : "none",
+                      "lockAspectRatio" : true
+                    }
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 1,
+                "medias" : [
+                ]
+              }            ]
+          }
+        }
+      ]
+    },
+    "trackAttributes" : [
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "matte" : 0,
+        "solo" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "trackHeight" : "54"
+        }
+      },
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "matte" : 0,
+        "solo" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "trackHeight" : "54"
+        }
+      }
+    ],
+    "captionAttributes" : {
+      "enabled" : true,
+      "fontName" : "Arial",
+      "fontSize" : 32,
+      "backgroundColor" : [ 0, 0, 0, 204],
+      "foregroundColor" : [ 255, 255, 255, 255],
+      "lang" : "en",
+      "alignment" : 0,
+      "defaultFontSize" : true,
+      "opacity" : 0.5,
+      "backgroundEnabled" : true,
+      "backgroundOnlyAroundText" : true
+    },
+    "gain" : 1.0,
+    "legacyAttenuateAudioMix" : false,
+    "backgroundColor" : [ 0, 0, 0, 255]
+  },
+  "metadata" : {
+    "activeThemeId" : "e59eeb42-ccf0-4a36-bdf9-e630fdab686d",
+    "audiateSessionId" : "",
+    "firstMedia" : true,
+    "hasNotifiedAboutHFRMedia" : false
+  }
+}
